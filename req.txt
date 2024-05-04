@@ -1,0 +1,16 @@
+numpy
+pandas
+beautifulsoup4
+requests
+selenium
+chromedriver-binary
+
+et-xmlfile
+greenlet
+openpyxl
+playwright
+pyee
+python-dateutil
+pytz
+six
+typing_extensions
